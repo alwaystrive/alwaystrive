@@ -1,12 +1,13 @@
 # Hello, I'm Always Strive! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with expertise in **Node.js**, **Python**, and **PHP**. I enjoy creating innovative solutions and contributing to open-source projects. Here, you'll find a collection of my work, projects, and contributions.
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in **Node.js**, **Python**, **Golang** and **PHP**. I enjoy creating innovative solutions and contributing to open-source projects. Here, you'll find a collection of my work, projects, and contributions.
 
 ## 🛠️ My Skills
 
 - **Languages:**
   - Node.js
   - Python
+  - Golang
   - PHP
 
 - **Frameworks & Libraries:**
@@ -15,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 - **Tools & Technologies:**
   - Git & GitHub
   - SQL & NoSQL Databases
+  - SSH servers
   - RESTful APIs
   - Test-Driven Development (TDD)
 
